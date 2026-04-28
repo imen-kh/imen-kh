@@ -4,10 +4,10 @@
   
   <h1>Hello 👋, I'm Khalki Imen Allah</h1>
   
-  <h3>Étudiante en ingénierie • Développeuse à ESPRIT • La Marsa 🇹🇳</h3>
+  <h3>Computer Engineering Student at ESPRIT • Full-Stack Developer in Training • La Marsa, Tunisia 🇹🇳</h3>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Etudiante+en+ingenierie+et+developpeuse+ESPRIT;Passionnee+par+le+developpement+logiciel;Full-Stack+%26+Backend+Enthusiast;Building+clean+and+useful+real-world+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student+at+ESPRIT;Passionate+about+software+development;Full-Stack+%26+Backend+Enthusiast;Building+clean%2C+scalable%2C+real-world+solutions" alt="Typing SVG" />
   </p>
 
   <br>
@@ -32,7 +32,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <div align="center" style="max-width: 800px; margin: 0 auto;">
-  <p>Je suis Khalki Imen Allah, étudiante en ingénierie et développeuse à ESPRIT. Passionnée par le développement logiciel, j’aime créer des applications propres, performantes et utiles. Je m’intéresse particulièrement au Full-Stack, au backend, et à la construction de solutions robustes pour des problèmes réels.</p>
+  <p>I’m Khalki Imen Allah, a computer engineering student and developer at ESPRIT. I’m passionate about software development and enjoy building clean, performant, and practical applications. I’m especially interested in full-stack development, backend engineering, and designing robust solutions for real-world problems.</p>
 </div>
 
 <!-- Skills -->
